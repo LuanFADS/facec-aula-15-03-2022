@@ -33,10 +33,16 @@ namespace facec_lista_de_exercicios_tres_15_03_2022
 
             //E.Pessoa pessoa = new E.Pessoa(null);
 
-            E.Pessoa pessoa1 = new E.Pessoa("Luan");
-            E.Pessoa pessoa2 = pessoa1;
+            //E.Pessoa pessoa1 = new E.Pessoa("Luan");
+            //E.Pessoa pessoa2 = pessoa1;
 
-            pessoa1.Nome = "João";
+            //pessoa1.Nome = "João";
+
+            E.Pessoa pessoa1 = new E.Pessoa("Luan");
+            E.Pessoa pessoa1 = pessoa1;
+
+            pessoa1 = new E.Pessoa("João");
+            pessoa2 = pessoa1;
 
             Console.WriteLine($"{nameof(pessoa1)}:" + $"{pessoa1.Nome}");
             Console.WriteLine($"{nameof(pessoa2)}:" + $"{pessoa2.Nome}");

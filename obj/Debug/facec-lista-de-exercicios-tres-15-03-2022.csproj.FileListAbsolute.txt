@@ -1,0 +1,2 @@
+C:\Users\facec.lab01\source\repos\facec-lista-de-exercicios-tres-2022\facec-lista-de-exercicios-tres-15-03-2022\obj\Debug\facec-lista-de-exercicios-tres-15-03-2022.csproj.AssemblyReference.cache
+C:\Users\facec.lab01\source\repos\facec-lista-de-exercicios-tres-2022\facec-lista-de-exercicios-tres-15-03-2022\obj\Debug\facec-lista-de-exercicios-tres-15-03-2022.csproj.CoreCompileInputs.cache
